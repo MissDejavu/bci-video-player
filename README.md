@@ -8,7 +8,7 @@ This project is not maintained and needs updating of dependecies.
 
 The application consists of a web frontend based on Vue.js and a backend system written with node.js. 
 
-The backend code is heavily influenced by https://github.com/dashersw/brain-bits. 
+The backend code builds on the amazing project: https://github.com/dashersw/brain-bits. 
 
 # Frontend
 
